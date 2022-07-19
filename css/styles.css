@@ -1,0 +1,16 @@
+/* https://colorhunt.co/palette/94b49fcee5d0fcf8e8ecb390 */
+body {
+  background-color: #FCF8E8;
+}
+
+hr {
+  width: 5%;
+  height: 0px;
+  border-style: dotted none none none;
+  border-width: 0.6em;
+  border-color: #EAE7DA;
+}
+
+h1, h2, h3 {
+  color: #94B49F
+}
